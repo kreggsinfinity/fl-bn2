@@ -7,5 +7,14 @@
     "duration_min": 23.04,
     "video_file": "podcast_ep1_20261016_032719.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "From 'Bored' to 'Buzzing': Upgrading Your 'I'm Bored' English",
+    "date": "2026-10-16T09:15:02.461069",
+    "duration_sec": 1411.22,
+    "duration_min": 23.52,
+    "video_file": "podcast_ep2_20261016_085544.mp4",
+    "platform": "Facebook"
   }
 ]
