@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.52,
     "video_file": "podcast_ep2_20261016_085544.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Ditch the 'Sorry': Polite Ways to Disagree & Express Doubt in English",
+    "date": "2026-10-17T08:39:50.307760",
+    "duration_sec": 1442.26,
+    "duration_min": 24.04,
+    "video_file": "podcast_ep3_20261017_082719.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
