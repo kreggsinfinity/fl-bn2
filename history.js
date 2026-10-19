@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.27,
     "video_file": "podcast_ep4_20261018_084555.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "From 'It's Okay' to 'Piece of Cake': Effortless Ways to Talk About Ease & Difficulty",
+    "date": "2026-10-19T10:03:05.411396",
+    "duration_sec": 1350.19,
+    "duration_min": 22.5,
+    "video_file": "podcast_ep5_20261019_094625.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
