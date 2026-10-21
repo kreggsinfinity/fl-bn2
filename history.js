@@ -53,6 +53,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.57,
     "video_file": "podcast_ep6_20261020_092011.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Spill the Tea: From 'Gossip' to 'Insider Info' - Navigating Juicy Conversations",
+    "date": "2026-10-21T09:33:51.976488",
+    "duration_sec": 1365.86,
+    "duration_min": 22.76,
+    "video_file": "podcast_ep7_20261021_091608.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
