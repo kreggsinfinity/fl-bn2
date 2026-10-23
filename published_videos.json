@@ -70,5 +70,14 @@
     "duration_min": 23.31,
     "video_file": "podcast_ep8_20261022_091853.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "From 'Feeling Down' to 'Riding the Wave': Navigating Tough Times with Style",
+    "date": "2026-10-23T09:27:13.145899",
+    "duration_sec": 1327.7,
+    "duration_min": 22.13,
+    "video_file": "podcast_ep9_20261023_091420.mp4",
+    "platform": "Facebook"
   }
 ]
