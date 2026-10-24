@@ -80,6 +80,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.13,
     "video_file": "podcast_ep9_20261023_091420.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "From 'What's Up?' to 'Spill the Beans': Mastering Casual Greetings & Catch-Ups",
+    "date": "2026-10-24T09:17:08.192215",
+    "duration_sec": 1456.2,
+    "duration_min": 24.27,
+    "video_file": "podcast_ep10_20261024_084753.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
