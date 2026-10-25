@@ -88,5 +88,14 @@
     "duration_min": 24.27,
     "video_file": "podcast_ep10_20261024_084753.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "From 'Annoyed' to 'Miffed': Navigating Everyday Irritations with Flair",
+    "date": "2026-10-25T09:29:54.725783",
+    "duration_sec": 1377.98,
+    "duration_min": 22.97,
+    "video_file": "podcast_ep11_20261025_090324.mp4",
+    "platform": "Facebook"
   }
 ]
