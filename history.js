@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.97,
     "video_file": "podcast_ep11_20261025_090324.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "From 'Can You Help?' to 'Lend Me a Hand': Mastering Requests & Offers Like a Pro",
+    "date": "2026-10-26T10:26:45.352881",
+    "duration_sec": 1434.41,
+    "duration_min": 23.91,
+    "video_file": "podcast_ep12_20261026_095911.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
