@@ -116,6 +116,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.34,
     "video_file": "podcast_ep13_20261027_101202.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "From 'I Think' to 'I'm Convinced': Expressing Certainty & Doubt Like a Boss",
+    "date": "2026-10-28T10:55:11.364510",
+    "duration_sec": 1389.86,
+    "duration_min": 23.16,
+    "video_file": "podcast_ep14_20261028_102853.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
