@@ -133,5 +133,14 @@
     "duration_min": 21.28,
     "video_file": "podcast_ep15_20261029_104838.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "From 'Tell Me More' to 'Give Me the Lowdown': Unpacking Intrigue & Curiosity in Conversation",
+    "date": "2026-10-30T11:07:55.913595",
+    "duration_sec": 1321.73,
+    "duration_min": 22.03,
+    "video_file": "podcast_ep16_20261030_104831.mp4",
+    "platform": "Facebook"
   }
 ]
