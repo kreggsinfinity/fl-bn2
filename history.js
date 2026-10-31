@@ -143,6 +143,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.03,
     "video_file": "podcast_ep16_20261030_104831.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Beyond 'I'm Tired': Mastering Energy Levels from 'Wiped Out' to 'Revved Up'",
+    "date": "2026-10-31T10:28:40.840539",
+    "duration_sec": 1289.59,
+    "duration_min": 21.49,
+    "video_file": "podcast_ep17_20261031_101655.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
