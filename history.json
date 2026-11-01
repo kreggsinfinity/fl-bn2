@@ -151,5 +151,14 @@
     "duration_min": 21.49,
     "video_file": "podcast_ep17_20261031_101655.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "From 'It's a Surprise' to 'The Plot Twist': Navigating Unexpected News & Events",
+    "date": "2026-11-01T11:29:27.991627",
+    "duration_sec": 1291.89,
+    "duration_min": 21.53,
+    "video_file": "podcast_ep18_20261101_111020.mp4",
+    "platform": "Facebook"
   }
 ]
