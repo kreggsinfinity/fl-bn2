@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.53,
     "video_file": "podcast_ep18_20261101_111020.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "From 'My Bad' to 'A Genuine Apology': Mastering Sincere Remorse in English",
+    "date": "2026-11-02T12:27:40.298533",
+    "duration_sec": 1351.68,
+    "duration_min": 22.53,
+    "video_file": "podcast_ep19_20261102_121211.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
