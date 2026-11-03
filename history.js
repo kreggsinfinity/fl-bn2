@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.53,
     "video_file": "podcast_ep19_20261102_121211.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "From 'Just Okay' to 'Spot On': Mastering Compliments That Actually Land",
+    "date": "2026-11-03T12:05:43.289084",
+    "duration_sec": 1385.3,
+    "duration_min": 23.09,
+    "video_file": "podcast_ep20_20261103_114645.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
