@@ -179,6 +179,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.09,
     "video_file": "podcast_ep20_20261103_114645.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "From 'What Are You Doing?' to 'What's the Plan?' - Mastering Future Intentions & Spontaneity",
+    "date": "2026-11-04T12:16:25.531842",
+    "duration_sec": 1490.49,
+    "duration_min": 24.84,
+    "video_file": "podcast_ep21_20261104_115833.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
