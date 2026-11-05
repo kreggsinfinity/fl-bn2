@@ -187,5 +187,14 @@
     "duration_min": 24.84,
     "video_file": "podcast_ep21_20261104_115833.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "From 'It's Good' to 'It's a Vibe': Describing Feelings & Atmospheres Like a Native",
+    "date": "2026-11-05T12:19:10.241231",
+    "duration_sec": 1325.16,
+    "duration_min": 22.09,
+    "video_file": "podcast_ep22_20261105_120326.mp4",
+    "platform": "Facebook"
   }
 ]
