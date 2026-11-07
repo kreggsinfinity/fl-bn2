@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.86,
     "video_file": "podcast_ep23_20261106_115747.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "From 'It's Boring' to 'A Real Snoozefest': Mastering the Art of Describing Tedium",
+    "date": "2026-11-07T11:17:24.431739",
+    "duration_sec": 1375.8,
+    "duration_min": 22.93,
+    "video_file": "podcast_ep24_20261107_105747.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
