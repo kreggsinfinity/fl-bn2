@@ -215,6 +215,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.93,
     "video_file": "podcast_ep24_20261107_105747.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "From 'I'm Broke' to 'Feeling the Pinch': Navigating Money Talk with Confidence",
+    "date": "2026-11-08T11:27:45.497207",
+    "duration_sec": 1312.63,
+    "duration_min": 21.88,
+    "video_file": "podcast_ep25_20261108_111106.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
