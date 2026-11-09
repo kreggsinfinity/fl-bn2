@@ -224,6 +224,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.88,
     "video_file": "podcast_ep25_20261108_111106.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "From 'Just Okay' to 'A Real Gem': Praising Things You Genuinely Adore",
+    "date": "2026-11-09T12:58:05.531610",
+    "duration_sec": 1327.25,
+    "duration_min": 22.12,
+    "video_file": "podcast_ep26_20261109_124233.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
