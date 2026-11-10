@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.12,
     "video_file": "podcast_ep26_20261109_124233.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "From 'I'm Confused' to 'Lost in the Sauce': Navigating Bewilderment with Banter",
+    "date": "2026-11-10T12:36:48.168575",
+    "duration_sec": 1396.7,
+    "duration_min": 23.28,
+    "video_file": "podcast_ep27_20261110_122418.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
