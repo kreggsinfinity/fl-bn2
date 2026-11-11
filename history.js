@@ -242,6 +242,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.28,
     "video_file": "podcast_ep27_20261110_122418.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "From 'I'm Stressed' to 'Burning the Candle at Both Ends': Mastering the Art of Describing Overwhelm",
+    "date": "2026-11-11T12:05:09.581362",
+    "duration_sec": 1282.75,
+    "duration_min": 21.38,
+    "video_file": "podcast_ep28_20261111_114647.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
