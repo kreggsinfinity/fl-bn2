@@ -251,6 +251,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.38,
     "video_file": "podcast_ep28_20261111_114647.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "From 'It's Fine' to 'It's a Mood': Expressing Subtle Feelings & Vibes",
+    "date": "2026-11-12T12:48:16.976605",
+    "duration_sec": 1356.34,
+    "duration_min": 22.61,
+    "video_file": "podcast_ep29_20261112_122628.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
