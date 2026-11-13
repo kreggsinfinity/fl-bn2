@@ -260,6 +260,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.61,
     "video_file": "podcast_ep29_20261112_122628.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "From 'What's the Big Deal?' to 'It's a Whole Thing': Mastering Nuanced Reactions to Problems",
+    "date": "2026-11-13T12:21:05.420228",
+    "duration_sec": 1317.05,
+    "duration_min": 21.95,
+    "video_file": "podcast_ep30_20261113_120120.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
