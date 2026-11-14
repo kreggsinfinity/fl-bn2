@@ -269,6 +269,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.95,
     "video_file": "podcast_ep30_20261113_120120.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "From 'Awkward Silence' to 'Comfortable Quiet': Mastering Conversational Pacing & Pauses",
+    "date": "2026-11-14T11:39:22.575791",
+    "duration_sec": 1316.54,
+    "duration_min": 21.94,
+    "video_file": "podcast_ep31_20261114_111954.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
