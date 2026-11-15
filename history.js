@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.94,
     "video_file": "podcast_ep31_20261114_111954.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "From 'Just Okay' to 'Mind-Blowing': Level Up Your Reactions!",
+    "date": "2026-11-15T12:06:57.138755",
+    "duration_sec": 1317.17,
+    "duration_min": 21.95,
+    "video_file": "podcast_ep32_20261115_115159.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
