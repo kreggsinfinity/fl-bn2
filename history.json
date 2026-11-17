@@ -295,5 +295,14 @@
     "duration_min": 20.99,
     "video_file": "podcast_ep33_20261116_123444.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "From 'I'm Bored' to 'Staring at the Walls': Bantering About Blah Moments",
+    "date": "2026-11-17T13:18:46.856606",
+    "duration_sec": 1330.25,
+    "duration_min": 22.17,
+    "video_file": "podcast_ep34_20261117_125916.mp4",
+    "platform": "Facebook"
   }
 ]
