@@ -304,5 +304,14 @@
     "duration_min": 22.17,
     "video_file": "podcast_ep34_20261117_125916.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "From 'That's Weird' to 'That's Quirky': Embracing Oddities & Unique Personalities",
+    "date": "2026-11-18T13:04:58.680121",
+    "duration_sec": 1365.93,
+    "duration_min": 22.77,
+    "video_file": "podcast_ep35_20261118_125233.mp4",
+    "platform": "Facebook"
   }
 ]
