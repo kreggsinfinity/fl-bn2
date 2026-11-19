@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.77,
     "video_file": "podcast_ep35_20261118_125233.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "From 'It's Difficult' to 'A Real Head-Scratcher': Navigating Challenges with Witty Vocabulary",
+    "date": "2026-11-19T12:56:39.071362",
+    "duration_sec": 1323.05,
+    "duration_min": 22.05,
+    "video_file": "podcast_ep36_20261119_124400.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
