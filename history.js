@@ -332,6 +332,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.67,
     "video_file": "podcast_ep37_20261120_124115.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 38,
+    "topic": "From 'Pretty Good' to 'Slam Dunk': Elevating Your Everyday Compliments",
+    "date": "2026-11-21T12:42:21.038957",
+    "duration_sec": 1334.95,
+    "duration_min": 22.25,
+    "video_file": "podcast_ep38_20261121_122228.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
