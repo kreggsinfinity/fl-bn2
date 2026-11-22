@@ -341,6 +341,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.25,
     "video_file": "podcast_ep38_20261121_122228.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "From 'So Tired' to 'Running on Fumes': Bantering About Burnout & Recharge",
+    "date": "2026-11-22T12:44:35.612881",
+    "duration_sec": 1352.3,
+    "duration_min": 22.54,
+    "video_file": "podcast_ep39_20261122_122500.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
