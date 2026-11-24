@@ -359,6 +359,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.68,
     "video_file": "podcast_ep40_20261123_141711.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "From 'It's Okay' to 'A Real Game Changer': Elevating Your Opinions & Impact",
+    "date": "2026-11-24T15:01:42.514656",
+    "duration_sec": 1321.87,
+    "duration_min": 22.03,
+    "video_file": "podcast_ep41_20261124_144151.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
