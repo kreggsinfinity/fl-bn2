@@ -367,5 +367,14 @@
     "duration_min": 22.03,
     "video_file": "podcast_ep41_20261124_144151.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "From 'That's Cool' to 'It's a Whole Mood': Elevating Your Enthusiasm & Appreciation",
+    "date": "2026-11-25T14:22:16.077041",
+    "duration_sec": 1239.98,
+    "duration_min": 20.67,
+    "video_file": "podcast_ep42_20261125_140436.mp4",
+    "platform": "Facebook"
   }
 ]
