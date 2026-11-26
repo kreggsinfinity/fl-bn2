@@ -377,6 +377,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.67,
     "video_file": "podcast_ep42_20261125_140436.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "From 'I'm Annoyed' to 'Riled Up': Bantering About Pet Peeves & Irritations",
+    "date": "2026-11-26T13:57:12.178813",
+    "duration_sec": 1220.73,
+    "duration_min": 20.35,
+    "video_file": "podcast_ep43_20261126_134230.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
