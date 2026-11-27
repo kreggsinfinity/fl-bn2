@@ -386,6 +386,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.35,
     "video_file": "podcast_ep43_20261126_134230.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 44,
+    "topic": "From 'He's Late' to 'He's Fashionably Late': Mastering Excuses & Explanations Like a Diplomat",
+    "date": "2026-11-27T13:57:34.843797",
+    "duration_sec": 1260.29,
+    "duration_min": 21.0,
+    "video_file": "podcast_ep44_20261127_133947.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
