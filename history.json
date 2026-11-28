@@ -394,5 +394,14 @@
     "duration_min": 21.0,
     "video_file": "podcast_ep44_20261127_133947.mp4",
     "platform": "None"
+  },
+  {
+    "episode": 45,
+    "topic": "From 'No Big Deal' to 'A Whole Mood': Mastering Understated Reactions & Subtle Vibes",
+    "date": "2026-11-28T13:08:15.822416",
+    "duration_sec": 1302.1,
+    "duration_min": 21.7,
+    "video_file": "podcast_ep45_20261128_125002.mp4",
+    "platform": "None"
   }
 ]
